@@ -1,0 +1,23 @@
+# Node
+node_modules/
+npm-debug.log*
+package-lock.json
+
+# Environment variables (VERY IMPORTANT)
+.env
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Misc
+dist/
+build/
+coverage/
